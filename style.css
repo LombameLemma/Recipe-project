@@ -1,0 +1,69 @@
+h1{
+    background-color: burlywood;
+}
+
+.food{
+    color:gold;
+    background-color:black;
+  
+}
+.burger{
+    width:200px;
+    height: 200px;
+}
+.pizza{
+  
+    width:200px;
+    height: 200px;
+}
+.combo{
+    width:200px;
+    height:200px;
+}
+.clubsandwich{
+    width:200px;
+    height: 200px;
+}
+
+.Lombaspecial{
+    width:200px;
+    height: 200px;
+}
+.lists li {
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Centers the image and text vertically */
+  margin-bottom: 20px; /* Adds space between each list item */
+}
+.drinks{
+    background-color:yellow;
+    
+}
+.Man{
+    width:200px;
+    height: 200px;
+}
+.Avo{
+    width:200px;
+    height: 200px;
+}
+.straw{
+     width:200px;
+    height: 200px;
+}
+.Mix{
+     width:200px;
+    height: 200px;
+}
+.tea{
+    width: 200px;
+    height: 200px;
+}
+.cof{
+   width: 200px;
+    height: 200px;  
+}
+.milk{
+  width: 200px;
+    height: 200px;  
+}
